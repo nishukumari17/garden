@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Poppins:wght@500&display=swap');
+.footerarea{
+    padding: 80px 0;
+    background-color:#014B40;
+}
+h5{
+    color: white;
+}
+.footerarea ul{
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+.footerarea ul li{
+        color: white;
+        padding: 5px 0;
+        font-family: 'Poppins', sans-serif;
+}
+p{
+    color: white; 
+}
+input{
+    width:437px;
+    height: 64px;
+    color:#FFFFFF;
+    border-radius: 10px;
+    background-color:#1A5D53;
+    padding: 0px 0px 0 27px;
+
+}
+input::placeholder{
+    color: white;
+}
+.footerarea h3{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+.foot{
+    background-color: #1A5D53;
+    color: white;
+    margin-top: 72px;
+    border-radius: 5px;
+    padding: 25px 30px;
+    
+}
+.foot p{
+    margin:0;
+}
+.foot ul{
+    float:right;  
+    margin:0;
+    padding:0;
+}
+.foot ul li {
+    float: left;
+   margin:0 5px;
+    /*  padding:5px; */
+  }
+  .foot ul li a:link, .foot ul li a:visited{
+    text-decoration: none;
+    color: white;
+  }
+  .nright{
+    text-align: right;
+  }

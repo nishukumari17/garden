@@ -1,0 +1,26 @@
+.toparea{
+    padding: 30px;
+    background-image:url('../../../assets/images/top.png') ;
+    background-size: cover;
+}
+.toparea h1{
+    color: #EFF7F5;
+    word-spacing:5px;
+    font-family: Open Sans;
+    line-height: 60px;
+    letter-spacing: 0;
+}
+.toparea p{
+    color: white;
+}
+button{
+    background-color:#014B40 ;
+    padding:10px 50px;
+    border-radius: 10px;
+    color: white;
+}
+.toparea a:link, .toparea a:visited{
+    text-decoration: none;
+    color: white;
+    margin-left:30px;
+}
