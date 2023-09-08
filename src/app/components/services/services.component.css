@@ -1,0 +1,38 @@
+.servicearea{
+    padding: 71px 0;
+    background-image:url('../../../assets/images/services.png');
+    background-size: cover;
+    border-radius: 20px;
+    height: 100%;
+    width: 100%;
+}
+.servicearea h2{
+    color:white ;
+    text-align:center;
+    font-family: Open Sans;
+   font-size: 44px;
+   letter-spacing: 0.3px;
+   
+}
+.servicearea p{
+    font-family:Poppins;
+    text-align: center;
+    letter-spacing: 0.3px;
+    color: white;
+}
+.servicearea ul{
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+.servicearea ul li{
+    text-align: center;
+}
+.servicearea ul li a:link, .servicearea ul li a:visited{
+    color: white;
+    text-decoration: none;
+}
+.servicearea i{
+    color: white;
+    margin-right: 10px;
+}

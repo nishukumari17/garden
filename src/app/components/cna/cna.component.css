@@ -1,0 +1,14 @@
+.cnarea{
+    padding: 76px 0 28px 0;
+
+}
+.cnarea h3{
+    color:#1D5F55 ;
+    padding: 0 0 45px 0;
+    text-align: left;
+    font-family:Open Sans ;
+}
+.cnarea a:link, .cnarea a:visited{
+    color:#1D5F55 ;
+    text-decoration: none;
+}
