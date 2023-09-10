@@ -1,26 +1,47 @@
-.toparea{
-    padding: 30px;
-    background-image:url('../../../assets/images/top.png') ;
+
+.topper{
+    background:url('../../../assets/images/top.png') ;
     background-size: cover;
+    padding:0px 0px 350px 0px;
 }
+
 .toparea h1{
     color: #EFF7F5;
     word-spacing:5px;
     font-family: Open Sans;
-    line-height: 60px;
+    line-height:80px;
     letter-spacing: 0;
+    font-size: 60px;
+    padding: 73px 0 0 0;
 }
 .toparea p{
     color: white;
 }
 button{
     background-color:#014B40 ;
-    padding:10px 50px;
+    padding:10px;
     border-radius: 10px;
     color: white;
+    width: 156px;
+    height: 59px;
+    font-family:Poppins;
 }
 .toparea a:link, .toparea a:visited{
     text-decoration: none;
     color: white;
     margin-left:30px;
+}
+.top{
+    background-color:rgba(182,201,174,0.7);
+    padding: 20px 0;
+}
+.icon a i{
+    color:#1B5D50;
+    text-align: center;
+    margin: 20px 5px;
+    font-size: 20px;
+}
+.navbar ul li a{
+    color: #014B40;
+   
 }

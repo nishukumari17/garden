@@ -9,8 +9,18 @@ i{
     border-radius: 10px;
     padding:15px;
     font-size: 30px;
+    text-align: right;
 }
 p i{
     color: grey;
     background-color: white;
+}
+input{
+   width: 992px;
+   height: 60px;
+   border-radius: 10px;
+   padding: 0px 0px 0 27px;
+}
+input::placeholder{
+    color:#54867E ;
 }

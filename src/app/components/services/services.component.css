@@ -1,10 +1,19 @@
 .servicearea{
     padding: 71px 0;
-    background-image:url('../../../assets/images/services.png');
+    background-color: white;
+    
+    /* border-radius: 20px; */
+    /* height: 100%; */
+    /* width: 100%; */
+
+}
+.service{
+    background: linear-gradient(rgba(0, 0, 0,0.7) ,rgba(0, 0, 0, 0.4)), url('../../../assets/images/services.png');
     background-size: cover;
     border-radius: 20px;
-    height: 100%;
-    width: 100%;
+    padding: 50px 0 100px 0;
+    
+    /* background-image:linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)), ; */
 }
 .servicearea h2{
     color:white ;
@@ -12,6 +21,7 @@
     font-family: Open Sans;
    font-size: 44px;
    letter-spacing: 0.3px;
+   margin: 35px 0 0 0 ;
    
 }
 .servicearea p{
