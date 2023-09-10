@@ -1,14 +1,15 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Poppins:wght@500&display=swap');
 .topper{
     background:url('../../../assets/images/top.png') ;
     background-size: cover;
     padding:0px 0px 350px 0px;
+    margin: 0;
 }
 
 .toparea h1{
     color: #EFF7F5;
     word-spacing:5px;
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     line-height:80px;
     letter-spacing: 0;
     font-size: 60px;
@@ -16,6 +17,7 @@
 }
 .toparea p{
     color: white;
+    font-family: 'Poppins', sans-serif;
 }
 button{
     background-color:#014B40 ;
@@ -24,12 +26,13 @@ button{
     color: white;
     width: 156px;
     height: 59px;
-    font-family:Poppins;
+    font-family: 'Poppins', sans-serif;
 }
 .toparea a:link, .toparea a:visited{
     text-decoration: none;
     color: white;
     margin-left:30px;
+    font-family: 'Poppins', sans-serif;
 }
 .top{
     background-color:rgba(182,201,174,0.7);

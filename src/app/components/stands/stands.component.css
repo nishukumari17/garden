@@ -1,9 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Poppins:wght@500&display=swap');
 .plant{
     padding: 50px;
 }
 .plant h3{
     color:#014b40 ;
     padding:41px 0 ;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    letter-spacing: 0.5px;
 }
 .plant img{
     border-radius:20px ;
